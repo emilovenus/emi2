@@ -160,7 +160,7 @@ SistemaNotificaciones/
 
 ## ✍️ Autor
 
-**Nombre:** *[Tu nombre aquí]*
+**Nombre:** *EMILY VALLE*
 **Materia:** Programación Orientada a Objetos
 **Tema:** Patrones de Diseño – Observer y Factory Method
 **Lenguaje:** Python
